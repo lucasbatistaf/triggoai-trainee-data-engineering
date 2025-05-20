@@ -1,6 +1,9 @@
 # triggoai-trainee-data-engineering
 Repository for the Triggo.ai Data Engineering Trainee challenge
 
+To run the project, just uncomment the "%pip install *" to download the libraries if you dont have them, then just follow along the notebook;
+The final dashboard for the project can be found [here](https://lookerstudio.google.com/reporting/4c659dbf-b589-4d1a-8e82-a980ac948a77/page/p_3ol9yahnsd/edit)
+
 This project is divided in 4 parts:
 
 # Part 1:
